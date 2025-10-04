@@ -89,9 +89,9 @@ The most surprising thing? Even knowing exactly how the algorithm works, it's st
 
 ## Files You'll Find Here
 
-- `task2_tictactoe_ai.py` - Console version with all difficulty levels
-- `task2_tictactoe_gui.py` - Beautiful GUI version with visual feedback
-- `README.md` - This detailed guide
+- TIC_TAC_TOE.py - Beautiful GUI version with visual feedback
+- SCREENSHOTS
+- README.md - This detailed guide
 
 ## Challenge Accepted? 
 
